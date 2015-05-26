@@ -1,0 +1,59 @@
+Summary of code that can be run.
+
+Below, USERNAME is the user name for the MySQL database account.
+
+PersonDb (the person database)
+
+(1) Create the Person table:
+
+  mysql –u USERNAME –p PersonDb < createPersonTable.sql
+
+(2) Drop the Person table:
+
+  mysql –u USERNAME –p PersonDb < dropPersonTable.sql
+
+StructureDb (the structure database)
+
+(1) Create the Structure, Chain, Residue, Atom tables:
+
+  mysql –u USERNAME –p StructureDb < createStructureTables.sql
+
+(2) Add a structure:
+
+  python AddStructure.py StructureDb PDB_FILE
+e.g.
+  python AddStructure.py StructureDb 1AFO.pdb
+  (least efficient method)
+
+  python AddStructure2.py StructureDb PDB_FILE
+e.g.
+  python AddStructure.py StructureDb 1AFO.pdb
+
+  python AddStructure3.py StructureDb PDB_FILE
+e.g.
+  python AddStructure.py StructureDb 1AFO.pdb
+  (most efficient method)
+
+(3) Get structure from database:
+
+  python GetStructure.py StructureDb PDB_ID
+e.g.
+  python GetStructure.py StructureDb 1AFO
+
+(4) Query the database about molType:
+
+  python CountChainMolType.py StructureDb MOL_TYPE
+e.g.
+  python CountChainMolType.py StructureDb protein
+
+(5) Clear the tables:
+
+  mysql –u USERNAME –p StructureDb < clearTables.sql
+
+(6) Drop the Structure, Chain, Residue, Atom tables:
+
+  mysql –u USERNAME –p StructureDb < dropStructureTables.sql
+
+(7) All Structure code in one file (but no test code at bottom)
+
+  StructureDb.py

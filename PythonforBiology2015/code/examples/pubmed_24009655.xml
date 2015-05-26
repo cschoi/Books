@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st May 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130501.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="In-Data-Review">
+        <PMID Version="1">24009655</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>In situ Raman study of redox state changes of mitochondrial cytochromes in a perfused rat heart.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e70488</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0070488</ELocationID>
+            <Abstract>
+                <AbstractText>We developed a Raman spectroscopy-based approach for simultaneous study of redox changes in c-and b-type cytochromes and for a semiquantitative estimation of the amount of oxygenated myoglobin in a perfused rat heart. Excitation at 532 nm was used to obtain Raman scattering of the myocardial surface of the isolated heart at normal and hypoxic conditions. Raman spectra of the heart under normal pO2 demonstrate unique peaks attributable to reduced c-and b-type cytochromes and oxymyoglobin (oMb). The cytochrome peaks decreased in intensity upon FCCP treatment, as predicted from uncoupling mitochondrial respiration. Conversely, transient hypoxia causes the reversible increase in the intensity of peaks assigned to cytochromes c and c1, reflecting electron stacking proximal to cytochrome oxidase due to the lack of terminal electron acceptor O2. Intensities of peaks assigned to oxy- and deoxyhemoglobin were used for the semiquantitative estimation of oMb deoxygenation that was found to be of approximately 50[Formula: see text] under hypoxia conditions.</AbstractText>
+            </Abstract>
+            <Affiliation>Biophysics Department, Biological faculty, Moscow State University, Moscow, Russia ; Department of Biomedical Sciences, Faculty of Health and Medical Sciences, Copenhagen University, Copenhagen, Denmark.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Brazhe</LastName>
+                    <ForeName>Nadezda A</ForeName>
+                    <Initials>NA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Treiman</LastName>
+                    <ForeName>Marek</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Faricelli</LastName>
+                    <ForeName>Barbara</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vestergaard</LastName>
+                    <ForeName>Jakob H</ForeName>
+                    <Initials>JH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sosnovtseva</LastName>
+                    <ForeName>Olga</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <OtherID Source="NLM">PMC3757006</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="ecollection">
+                <Year>2013</Year>
+                <Month/>
+                <Day/>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.1371/journal.pone.0070488</ArticleId>
+            <ArticleId IdType="pii">PONE-D-13-15969</ArticleId>
+            <ArticleId IdType="pubmed">24009655</ArticleId>
+            <ArticleId IdType="pmc">PMC3757006</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

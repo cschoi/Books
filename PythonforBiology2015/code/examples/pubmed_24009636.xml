@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st May 2013//EN" "http://www.ncbi.nlm.nih.gov/corehtml/query/DTD/pubmed_130501.dtd">
+<PubmedArticleSet>
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="PubMed-not-MEDLINE">
+        <PMID Version="1">24009636</PMID>
+        <DateCreated>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>06</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1738-1843</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>47</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Korean journal of pathology</Title>
+                <ISOAbbreviation>Korean J Pathol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Spindle cell rhabdomyosacoma of uterus: a case study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>388-91</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4132/KoreanJPathol.2013.47.4.388</ELocationID>
+            <Abstract>
+                <AbstractText>Uterine rhabdomyosarcoma (RMS) typically presents as a mixed epithelial and mesenchymal tumors. Pure RMSs of the female genital tract are uncommon. Spindle cell variant of RMS is a rare morphologic subtype of embryonal RMS and mostly occurs in the paratesticular region of children. Here, we present a case of uterine spindle cell RMS in a 76-year-old woman. The tumor, 20×15×7 cm in size, was highly necrotic and adherent to the colon and rectum. Tumor cells were mostly spindle-shaped, and isolated rhabdomyoblasts were scattered. Immunohistochemical stains for myoglobin and myo-D1 showed diffuse positivity for tumor cells. The patient died only of disease three months after diagnosis.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Obstetrics and Gynecology, Eulji University School of Medicine, Seoul, Korea.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Dae Woon</ForeName>
+                    <Initials>DW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shin</LastName>
+                    <ForeName>Jung Hwan</ForeName>
+                    <Initials>JH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Ho Jung</ForeName>
+                    <Initials>HJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hong</LastName>
+                    <ForeName>Young Ok</ForeName>
+                    <Initials>YO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Joo</LastName>
+                    <ForeName>Jong Eun</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Eun Kyung</ForeName>
+                    <Initials>EK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Korean J Pathol</MedlineTA>
+            <NlmUniqueID>101275976</NlmUniqueID>
+            <ISSNLinking>1738-1843</ISSNLinking>
+        </MedlineJournalInfo>
+        <OtherID Source="NLM">PMC3759640</OtherID>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Rhabdomyosarcoma</Keyword>
+            <Keyword MajorTopicYN="N">Spindle cell variant</Keyword>
+            <Keyword MajorTopicYN="N">Uterus</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="epublish">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="doi">10.4132/KoreanJPathol.2013.47.4.388</ArticleId>
+            <ArticleId IdType="pubmed">24009636</ArticleId>
+            <ArticleId IdType="pmc">PMC3759640</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

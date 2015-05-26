@@ -1,0 +1,47 @@
+Summary of code that can be run.
+
+PersonDb (the person database)
+
+(1) Create the Person table:
+
+  sqlite3 PersonDb < createPersonTable.sql
+
+(2) Drop the Person table:
+
+  sqlite3 PersonDb < dropPersonTable.sql
+
+StructureDb (the structure database)
+
+(1) Create the Structure, Chain, Residue, Atom tables:
+
+  sqlite3 StructureDb < createStructureTables.sql
+
+(2) Add structure(s) to database from PDB file:
+
+  python AddStructure.py StructureDb PDB_FILE
+e.g.
+  python AddStructure.py StructureDb 1AFO.pdb
+
+(3) Get structure from database:
+
+  python GetStructure.py StructureDb PDB_ID
+e.g.
+  python GetStructure.py StructureDb 1AFO
+
+(4) Query the database about molType:
+
+  python CountChainMolType.py StructureDb MOL_TYPE
+e.g.
+  python CountChainMolType.py StructureDb protein
+
+(5) Clear the tables:
+
+  sqlite3 StructureDb < clearTables.sql
+
+(6) Drop the Structure, Chain, Residue, Atom tables:
+
+  sqlite3 StructureDb < dropStructureTables.sql
+
+(7) All Structure code in one file (but no test code at bottom)
+
+  StructureDb.py
